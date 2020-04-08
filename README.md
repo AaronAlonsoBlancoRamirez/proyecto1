@@ -1,4 +1,4 @@
-# proyecto1
+
 # include <iostream>
 using namespace std;  
   
@@ -6,12 +6,6 @@ using namespace std;
  
  
  cout<<"HelloWorld";
- 
- 
- 
- 
- 
- 
  
  
  
