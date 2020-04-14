@@ -1,13 +1,8 @@
-#include <fstream>
+
 #include <stdlib.h>
 #include <iostream>
-using std::cout;
-using std::endl;
-using std::cin;
 #include <string>
 using std::string;
-#include <sstream>
-using std::istringstream;
 using namespace std;
 
 
